@@ -2,7 +2,7 @@
 
 Three from-scratch Python implementations developed for CS 610 Data Structures and Algorithms: a linked-list triage queue, a binary search tree, and Dijkstra's shortest-path algorithm.
 
-The original coursework was completed individually by Steven Meyer. The implementations were subsequently reorganized into reusable modules and supplemented with automated tests for this portfolio repository.
+The original coursework was completed individually by me. The implementations were subsequently reorganized into reusable modules and supplemented with automated tests for this portfolio repository.
 
 ## Implementations
 
